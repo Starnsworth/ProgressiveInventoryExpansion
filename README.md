@@ -15,11 +15,11 @@ Ladies and gentlemen, gather 'round! Have we got news for you, straight from the
 
 Are you tired of constantly juggling your limited inventory space, hindering your progress in this fine game? Well, worry no more, my friends! With PIE, your worries will vanish like smoke from a chimney!
 
-[Inventory Comparison](https://starnsworth.com/wp-content/uploads/2023/06/InvComparison.png)
+![Inventory Comparison](https://starnsworth.com/wp-content/uploads/2023/06/InvComparison.png)
 
 Picture this: as you conquer grand milestones in the HUB and achieve greatness in your industrial journey via the MAM, your inventory will grow! Yes, you heard it right, folks! Your inventory will expand, just like the roaring prosperity of your factory!
 
-[MAMscroll](https://starnsworth.com/wp-content/uploads/2023/06/MAMinfo.gif)
+![MAMscroll](https://starnsworth.com/wp-content/uploads/2023/06/MAMinfo.gif)
 
 No longer will you be held back by puny pockets or meager storage. With PIE, you'll have ample space to carry all the gears, gadgets, and gizmos your heart desires!
 
