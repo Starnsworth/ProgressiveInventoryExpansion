@@ -15,18 +15,18 @@ Ladies and gentlemen, gather 'round! Have we got news for you, straight from the
 
 Are you tired of constantly juggling your limited inventory space, hindering your progress in this fine game? Well, worry no more, my friends! With PIE, your worries will vanish like smoke from a chimney!
 
-[comparison image of a full inventory with a sad face, and an expanded inventory with the ficsit tick]
+[Inventory Comparison](https://starnsworth.com/wp-content/uploads/2023/06/InvComparison.png)
 
 Picture this: as you conquer grand milestones in the HUB and achieve greatness in your industrial journey via the MAM, your inventory will grow! Yes, you heard it right, folks! Your inventory will expand, just like the roaring prosperity of your factory!
 
-[image of the MAM progression]
+[MAMscroll](https://starnsworth.com/wp-content/uploads/2023/06/MAMinfo.gif)
 
 No longer will you be held back by puny pockets or meager storage. With PIE, you'll have ample space to carry all the gears, gadgets, and gizmos your heart desires!
 
 But wait, there's more! This ingenious mod is as sociable as a speakeasy, my friends! Gather your pals, join forces, and venture into the world together. With this mod, multiplayer compatibility is as smooth as silk, ensuring a harmonious experience for all!
 
-[Multiplayer Compatible image]
 
 Now, hold on to your safety hats, for here's the real kicker: this mod is as easy as pie to add or remove from your existing save files! Customize your experience, tailor it to your liking, and make your mark on the Satisfactory universe!
 So, what are you waiting for, ladies and gents? Step right up and embrace "Progressive Inventory Expansion"! It's the bee's knees, the cat's meow, and the ticket to a larger, grander inventory! Don't miss out on this splendid opportunity!
 Remember, folks, when it comes to Satisfactory, the "Progressive Inventory Expansion" mod is the key to unlocking endless possibilities! Get yours today and let the world marvel at your inventory prowess!
+
