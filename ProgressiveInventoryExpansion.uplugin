@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"AcceptsAnyRemoteVersion": true,
+	"FriendlyName": "Progressive Inventory Expansion",
+	"Description": "Adds milestones and MAM intergrations that gradually increase the inventory size of the player. Good for those who don't want to just cheat in all the slots.",
+	"Category": "Modding",
+	"CreatedBy": "Starnsworth",
+	"CreatedByURL": "Starnsworth.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.4.1",
+			"Enabled": true
+		}
+	]
+}
